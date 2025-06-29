@@ -8,8 +8,7 @@ export const HERO_CONTENT = `I'm a passionate Full-Stack Web Developer specializ
     JavaScript, and HTML, I create responsive and visually appealing user interfaces. On the backend, 
     I build scalable RESTful APIs and manage data effectively using MongoDB. I'm also skilled in Java,
      which strengthens my problem-solving and object-oriented programming capabilities. Whether it's developing 
-     a modern UI or building full-stack applications from scratch, I aim to deliver clean, efficient, and maintainable
-      code. I'm constantly learning and excited to build innovative solutions for the web`;
+     a modern UI or building full-stack applications from scratch.I'm constantly learning and excited to build innovative solutions for the web`;
 export const ABOUT_ME = `I’m Deepak — a tech enthusiast who turned curiosity into code.
     My journey into full-stack development started with small frontend experiments
     and quickly grew into building complete web applications. Today, I work with 
@@ -17,9 +16,7 @@ export const ABOUT_ME = `I’m Deepak — a tech enthusiast who turned curiosity
     and interactive user experiences. I love crafting beautiful UIs with Tailwind
     CSS and solving backend logic with Java and JavaScript. I’m building 
     a project solo or collaborating with a team, I enjoy the process of learning, 
-    building, and improving. I’m always excited to take on challenges and bring ideas to life!
-   , I find joy in the challenge. I love collaborating with others, continuously learning, and keeping up with new tools
-     and technologies in the developer ecosystem.`
+    building, and improving.`
 export const Project=[
   {
     title:"E-commerce Website",

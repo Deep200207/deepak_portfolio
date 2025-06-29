@@ -5,7 +5,7 @@ import profile from "../assets/profile.jpeg"
 export default function Hero() {
     return (
         <>
-            <div className=" flex flex-wrap m-8">
+            <div className=" flex flex-wrap m-2">
                 <div className="w-full lg:w-1/2">
                     <div className="flex flex-col items-center lg:items-start">
                         <h1 className="pb-11 text-6xl font-thin tracking-tight lg:mt-16 lg:text-7xl">Deepak</h1>
